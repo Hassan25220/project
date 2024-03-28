@@ -1,0 +1,23 @@
+.border {
+    border-style: solid;
+    border-color: #B03060;
+}
+
+.product_text {
+    color: #B03060;
+    font-weight: bold;
+}
+
+.f {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #B0908B;
+}
+
+.p {
+    color: #B03060;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 60px;
+}
